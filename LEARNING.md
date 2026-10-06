@@ -41,5 +41,6 @@ Total estimated: ~1,112 hours across 19 phases (Review + Do).
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-09-16 | 03/01 The Perceptron | 3/3 | Solid on step function, learning rule, and XOR/multi-layer reasoning; open-ended "what does sklearn add" reflection question was fair to skip. Practice code goes in each lesson's `code/` folder alongside the reference implementation. |
+| 2026-10-06 | 03/02 Multi-Layer Networks & Forward Pass | 3/3 | Continued chosen Phase 3 entry point; traced XOR OR/NAND signals and forward pass by hand (no Python runtime found). Needed repeated practice distinguishing weights, per-neuron biases, and output values; answered final shape question correctly. |
 
 ## Review queue
